@@ -9,7 +9,7 @@ Instrucciones ejecución programa:
 1. Ingrese a simbolo de sistema (Tecla inicio + cmd + Enter)
 
 2. Ubicarse en la ruta en la cual está el archivo Program6.jar psp2.1_2\src\main\java\src (Carpeta del proyecto descargada de gitHub) o Program 6 PSP_Miguel Quintero\src (.zip subibo a sicua)
-3. Ejecutar el comando java -jar Program5.jar y pulsar la tecla Enter
+3. Ejecutar el comando java -jar Program6.jar y pulsar la tecla Enter
 4. Ingresar los datos para x, grados de libertad, tolerancia y la cantidad de segmentos y p.
 5. Visualizar el resultado del calculo de x en la ventana de Símbolo de Sistema 	     
 
