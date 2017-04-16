@@ -15,7 +15,7 @@ Instrucciones ejecución programa:
 
 ***************************************************************************
 Ruta de los directorios pspdata, pspforms y test 
-GitHub:https://github.com/mithrandir1589/psp2.1_2/tree/master/src/site/resources/PSP2.1
+GitHub:https://github.com/mithrandir1589/psp2.1_2/tree/master/src/site/resources/PSP2.1_2
 Carpeta: ..\Program 6 PSP_Miguel Quintero
 
 
